@@ -19,5 +19,5 @@ lists have "number dot":
 
 but the link is after in round brackets
 
-[more links](https://code.visualstudio.com/)
+[link to visual studio](https://code.visualstudio.com/)
 
